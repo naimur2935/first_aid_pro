@@ -10,13 +10,10 @@
 **Group ID:** WD-2025-FA-01  
 
 **Team Members:**
-- **John Smith** - ID: 2021001 - Team Lead & Full-Stack Developer
-- **Sarah Johnson** - ID: 2021002 - Frontend Developer & UI/UX Designer  
-- **Michael Chen** - ID: 2021003 - Backend Developer & Database Administrator
-- **Emily Davis** - ID: 2021004 - Quality Assurance & Documentation Specialist
+- **Md Naimur Rahman** - ID: 2022200000091 - Team Lead & Full-Stack Developer
 
 **Submission Date:** January 2025  
-**Institution:** University of Technology  
+**Institution:** Southwest University
 **Department:** Computer Science & Engineering
 
 ---
